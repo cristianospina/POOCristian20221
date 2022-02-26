@@ -1,0 +1,14 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ò–í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÒÃß
+T	java:S106"9Replace this use of System.out or System.err by a logger.(æÈä|8Œà±õñ/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÏòÀıÿÿÿÿ8©Å³õñ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Û¢ªùøÿÿÿÿ8ô”´õñ/
+l
+java:S1104"QMake marca a static final constant or non-public and provide accessors if needed.(ıˆÉ£ıÿÿÿÿ
+k
+java:S1104"UMake capacidad a static final constant or non-public and provide accessors if needed.(É¶ËÉ
+p
+java:S1104"ZMake cantidadActual a static final constant or non-public and provide accessors if needed.(¯ã½¸
+n
+java:S1104"SMake cerveza a static final constant or non-public and provide accessors if needed.(Ô»‘¹úÿÿÿÿ

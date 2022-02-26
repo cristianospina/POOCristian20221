@@ -1,0 +1,20 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…—˜­
+l
+java:S1104"QMake marca a static final constant or non-public and provide accessors if needed.(ıˆÉ£ıÿÿÿÿ
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(æ®şôûÿÿÿÿ
+m
+java:S1104"RMake tamano a static final constant or non-public and provide accessors if needed.(Äš¯Øùÿÿÿÿ
+h
+java:S1104"RMake serial a static final constant or non-public and provide accessors if needed.(ÓÜÒ”
+q
+java:S1104"VMake resolucion a static final constant or non-public and provide accessors if needed.(Şæ®øÿÿÿÿ
+i
+java:S1104	"SMake volumen a static final constant or non-public and provide accessors if needed.(¹Å¡
+k
+java:S1104
+"UMake encendido a static final constant or non-public and provide accessors if needed.(˜ÿÔÕ
+r
+java:S1104"WMake canalActual a static final constant or non-public and provide accessors if needed.(—Ò‹„şÿÿÿÿ
