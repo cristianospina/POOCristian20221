@@ -7,7 +7,7 @@ public class AppDispensadorCondones{
     public static void main(String[] args0) {
         Condones condones = new Condones("Today", 5);
 
-        DispensadorDeCondones dispensador = new DispensadorDeCondones("Durex", 20);
+        DispensadorDeCondones dispensador = new DispensadorDeCondones("Prudence", 20);
         dispensador.condones = condones;
 
         dispensador.llenar();
