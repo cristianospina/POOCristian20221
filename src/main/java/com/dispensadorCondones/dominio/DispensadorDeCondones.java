@@ -4,7 +4,7 @@ public class DispensadorDeCondones {
     public String marca;
     public int capacidad;
     public int cantidadActual;
-    public Condones condones;
+    public Condon condon;
 
     public DispensadorDeCondones(String marca, double capacidad) {
         this.marca = marca;
@@ -15,7 +15,7 @@ public class DispensadorDeCondones {
         if (cantidadADispensar <= this.cantidadActual) {
             this.cantidadActual -= cantidadADispensar;
             System.out.println("Se dispensaron correctamente...");
-            System.out.println("Quedan " + this.cantidadActual + " de condones " + this.condones.marca);
+            System.out.println("Quedan " + this.cantidadActual + " de condones " + this.condon.marca);
             return true;
         }
 
@@ -23,15 +23,15 @@ public class DispensadorDeCondones {
         return false;
     }
 
-    public void cambiarCondones(Condones nuevoCondon) {
+    public void cambiarCondones(Condon nuevoCondon) {
         this.vaciar();
-        this.condones = nuevoCondon;
+        this.condon = nuevoCondon;
         this.llenar();
     }
 
     public void llenar() {
         this.cantidadActual = this.capacidad;
-        System.out.println("El dispensador se llenó con " + this.condones.marca);
+        System.out.println("El dispensador se llenó con " + this.condon.marca);
     }
 
     public void vaciar() {

@@ -1,14 +1,14 @@
 package com.dispensadorCondones.dominio;
 
-public class Condones {
+public class Condon {
     public String marca;
     public double sabor;
 
-    public Condones(String marca) {
+    public Condon(String marca) {
         this.marca = marca;
     }
 
-    public Condones(String marca, double sabor) {
+    public Condon(String marca, double sabor) {
         this.marca = marca;
         this.sabor = sabor;
     }
