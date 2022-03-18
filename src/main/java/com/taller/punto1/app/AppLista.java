@@ -1,4 +1,4 @@
-package com.agenda.app;
+package com.taller.punto1.app;
 
 import java.util.ArrayList;
 import java.util.List;
