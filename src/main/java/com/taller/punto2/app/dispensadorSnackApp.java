@@ -23,7 +23,7 @@ public class dispensadorSnackApp {
         autoSnack.snackDisponibles();
         autoSnack.snackAgotados();
         System.out.println("Buscando snack");
-        autoSnack.cantidadSnack("ms4l");
+        autoSnack.cantidadSnack("9876");
         System.out.println("Snack incrementado");
         autoSnack.aumentarSnack("1234", 1);
         autoSnack.aumentarSnack("5432", 15);
