@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.Arrays;
 
 public class EpsApp {
-    public static ImageIcon icono = new ImageIcon(EpsApp.class.getResource("/imagenes/uco.png"));
+    //public static ImageIcon icono = new ImageIcon(EpsApp.class.getResource("/imagenes/uco.png"));
 
     public static void main(String[] args) {
         while (true) {
@@ -27,6 +27,6 @@ public class EpsApp {
     }
 
     public static void mostrarMensaje(String mensaje) {
-        JOptionPane.showMessageDialog(null, mensaje, "POO", JOptionPane.QUESTION_MESSAGE, icono);
+        JOptionPane.showMessageDialog(null, mensaje, "POO", JOptionPane.QUESTION_MESSAGE);
     }
 }
